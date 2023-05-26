@@ -16,7 +16,7 @@
 
 <p>
 
-  <img width="60%" align="right" alt="Sepera_okeq github stats" src="https://github-readme-stats.vercel.app/api?username=Sepera-okeq&count_private=true&hide=cpp,javascript,python&show_icons=true&hide_border=true&line_height=27&theme=dark&show_owner=true&include_all_commits=true" />
+  <img width="60%" align="right" alt="Valer1yaaa github stats" src="https://github-readme-stats.vercel.app/api?username=Valer1yaaa&count_private=true&hide=cpp,javascript,python&show_icons=true&hide_border=true&line_height=27&theme=dark&show_owner=true&include_all_commits=true" />
 
 ### Program languages and Tools I use:<br><br>
 
