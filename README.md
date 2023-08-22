@@ -7,6 +7,9 @@
 - Deployment on Linux servers based on Debian, Docker containerization.
 - Project management. Organization of other developers in the team and coordination. Administration of social networks. Communication with communities.
 - Development and creation of UI/UX, user-friendly and human interfaces. Prototyping a design in Figma.
+- Database architecture design.
+- Building Business Processes (BPMN).
+- Analytics using PowerBI, VBA Excel, RapidMiner.
 
 ### **You can find me at:**
 
